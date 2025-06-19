@@ -5,7 +5,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import WorkoutSession from "./components/WorkoutSession";
+import WorkoutSession from "./components/workoutSession";
 import Gallery from "./components/Gallery";
 import Pricing from "./components/Pricing";
 import Contact from "./components/Contact";

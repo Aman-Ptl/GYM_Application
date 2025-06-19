@@ -15,7 +15,7 @@ const WorkoutSessions = () => {
       <div className="wrapper">
         <h1>FEATURED BOOTCAMPS</h1>
         <p>
-          Ready to crush your goals? Our Featured Bootcamps are specially
+          Ready to crush your goals? Our Featured bootjacks are specially
           designed to push your limits and get real results. Join our expert-led
           HIIT, Fat-Burn, Strength Builder, or Summer Shred Bootcamps and become
           the best version of yourself in just a few weeks.
